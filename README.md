@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=200&section=header" />
-⭐ 윤지수 ⭐
+                                        ⭐ 윤지수 ⭐
 
 <!--
 **doha23/doha23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
